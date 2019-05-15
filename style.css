@@ -1,12 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Poiret+One');
 
-
+html,body{
+	min-height: 100%;
+}
 body{
-	background:	#E0FFFF	;
+	background: #F0E2DE;
 }
 
+h1{
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+}
+
+
 h2{
-	font-family: 'Quicksand', cursive;
+  font-family: 'Poiret One', cursive;
 	font-weight: 400;
 }
 
@@ -16,6 +24,6 @@ h2{
 	right:2.5rem;
 }
 
-.bg-rosado{
-	background: rgba(230, 129, 170)
+.bg-verde{
+	background:rgba(255, 160, 122, 1.00)
 }
