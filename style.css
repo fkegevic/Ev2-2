@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+body{
+	background:	#E0FFFF	;
+}
+
+h2{
+	font-family: 'Quicksand', cursive;
+	font-weight: 400;
+}
+
+#menu{
+	position: fixed;
+	bottom:2rem;
+	right:2.5rem;
+}
+
+.bg-rosado{
+	background: rgba(230, 129, 170)
+}
